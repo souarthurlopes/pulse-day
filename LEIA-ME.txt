@@ -1,0 +1,9 @@
+PULSE DAY — COMO PUBLICAR GRÁTIS
+
+1. Crie um repositório público no GitHub chamado pulse-day.
+2. Envie todos os arquivos desta pasta para a raiz do repositório (não envie a pasta como subpasta).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abra https://SEU-USUARIO.github.io/pulse-day/
+5. Android: Chrome > menu > Instalar app (ou Adicionar à tela inicial). iPhone: Safari > Compartilhar > Adicionar à Tela de Início.
+
+Os registros ficam neste navegador/dispositivo, sem sincronização entre aparelhos. Dados do HTML aberto por arquivo e do endereço web NÃO são automaticamente compartilhados. Clima requer internet e permissão de localização se usada.
